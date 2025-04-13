@@ -60,9 +60,7 @@ node  index.js
 **GET**  `/calculate-shipping?address=`
 
 | Name | Type | Required |
-
 |----------|--------|----------|
-
 | address | string | ✅ |
 
   
